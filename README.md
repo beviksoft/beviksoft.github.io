@@ -1,2 +1,2 @@
 # beviksoft.github.io
-Demo page :)
+Képesítő vizsga
